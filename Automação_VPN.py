@@ -9,7 +9,7 @@ time.sleep(4)
 # Liga a VPN
 auto.click(x= 529, y= 187)
 # Da input da sua senha
-file = open(r'C:\Users\Felipe\Documents\Senha_VPN.txt', 'r')
+file = open(r'C:\Users\Felipe\Documents\Senha_VPN.txt', 'r')  # Modificar com o seu Usuário e criar no diretório Documentos o 'Senha_VPN.txt'.
 l = file.readlines(); senha = l.pop(1)
 auto.write(senha, interval =0.05)
 file.close()
