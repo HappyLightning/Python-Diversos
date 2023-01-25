@@ -1,0 +1,8 @@
+; Esta linha não deve ser impressa
+> Esta linha deve ser impressa alinhada a direita
+* Esta linha deve ser centralizada
+Uma linha normal-desu
+And another one, and another one
+= adocicado meu amor
+. mudamudamudamudamudamudamuda
+espera por favor espera eu tenho familia
